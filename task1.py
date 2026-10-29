@@ -1,0 +1,6 @@
+a = int(input("Birinci ededi daxil et:"))
+b = int(input("Ikinci ededi daxil et:"))
+print ("Cem:", a+b)
+print ("Ferq:", a-b)
+print ("Halis:", a*b)
+print ("Qismet:", a/b)
